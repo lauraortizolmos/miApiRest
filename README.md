@@ -30,7 +30,7 @@ Es un entorno de tiempo de ejecución de JavaScript (de ahí su terminación en 
 Todas las páginas y blogs que se muestran en la red han de tener un dominio y un hosting. El dominio es el nombre que va a tener la web en Internet, y el hosting es el espacio o el lugar en el que vas a alojar tu página, por lo que también es conocido como alojamiento web. Existen diferentes tipos de hosting y se diferencian en el espacio de almacenamiento o en si son de pago o gratuitos.
 FreeMysqlHosting es un alojamiento web gratuito que con solo registarse te permite tener acceso a una base de datos remota. En este freehosting no pagaras nada, y si tienes más de un correo electrónico, puedes crearte varias cuentas y disponer de varios planes de hosting gratuito a la vez.
 
-# Resultado
+# Resultado.
 ![Get](https://user-images.githubusercontent.com/61463784/81897732-d9284600-957c-11ea-91ad-211c9250dc43.png)
 ![Post](https://user-images.githubusercontent.com/61463784/81897741-daf20980-957c-11ea-87f7-18508ce715d1.png)
 ![Put](https://user-images.githubusercontent.com/61463784/81897748-dd546380-957c-11ea-9757-58440d3ca48b.png)
