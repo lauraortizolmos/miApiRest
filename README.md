@@ -11,11 +11,11 @@ Hoy en día las API REST están en un gran apogeo ya que la mayoría hace uso de
 Las API REST aprovechan los métodos HTTP, desde un simple POST o GET hasta métodos personalizados, sin embargo, nosotros veremos únicamente POST, GET, PUT y DELETE en su forma más sencilla y las Headers que son para autenticación, decirle qué tipo de dato va.
 
 # Caracteristicas Rest.
-*Protocolo cliente/servidor sin estado: cada petición HTTP contiene toda la información necesaria para ejecutarla, lo que permite que ni cliente ni servidor necesiten recordar ningún estado previo para satisfacerla. Aunque esto es así, algunas aplicaciones HTTP incorporan memoria caché. 
-*Las operaciones más importantes relacionadas con los datos en cualquier sistema REST y la especificación HTTP son cuatro: POST (crear), GET (leer y consultar), PUT (editar) y DELETE (eliminar).
-*Los objetos en REST siempre se manipulan a partir de la URI. 
-*Interfaz uniforme.
-*Sistema de capas: arquitectura jerárquica entre los componentes.
+* Protocolo cliente/servidor sin estado: cada petición HTTP contiene toda la información necesaria para ejecutarla, lo que permite que ni cliente ni servidor necesiten recordar ningún estado previo para satisfacerla. Aunque esto es así, algunas aplicaciones HTTP incorporan memoria caché. 
+* Las operaciones más importantes relacionadas con los datos en cualquier sistema REST y la especificación HTTP son cuatro: POST (crear), GET (leer y consultar), PUT (editar) y DELETE (eliminar).
+* Los objetos en REST siempre se manipulan a partir de la URI. 
+* Interfaz uniforme.
+* Sistema de capas: arquitectura jerárquica entre los componentes.
 
 # Postman.
 Postman es una extensión del navegador Google Chrome, que permite el envío de peticiones HTTP REST sin necesidad de desarrollar un cliente.
